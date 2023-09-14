@@ -9,7 +9,7 @@
 ## Overview
 The goal of this project was to explore OpenCV and build a script that that can be used to control the computer volume with hand gestures.
 
-* Perform volume control action based on hand gesture:
+Perform volume control action based on hand gesture:
 * If hand gesture is pointing up -> Increase the volume 
 * If hand gesture is pointing down -> Decrease the volume
 
