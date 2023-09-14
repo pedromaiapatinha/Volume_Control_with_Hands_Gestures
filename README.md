@@ -13,7 +13,8 @@ Perform volume control action based on hand gesture:
 * If hand gesture is pointing up -> Increase the volume 
 * If hand gesture is pointing down -> Decrease the volume
 
-![giphy_volume_control](https://github.com/pedromaiapatinha/Volume_Control_with_Hands_Gestures/assets/64651800/67f90677-8966-427c-9bdc-2d0d815bfa5a)
+
+![giphy_volume_control](https://github.com/pedromaiapatinha/Volume_Control_with_Hands_Gestures/assets/64651800/7435e6cd-593d-4a0a-bc97-f6233482a612)
 
 
 ## Installation
