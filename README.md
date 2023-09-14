@@ -13,6 +13,9 @@ Perform volume control action based on hand gesture:
 * If hand gesture is pointing up -> Increase the volume 
 * If hand gesture is pointing down -> Decrease the volume
 
+![giphy_volume_control](https://github.com/pedromaiapatinha/Volume_Control_with_Hands_Gestures/assets/64651800/67f90677-8966-427c-9bdc-2d0d815bfa5a)
+
+
 ## Installation
 The Code is written in Python 3.9. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
 ```bash
